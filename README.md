@@ -17,3 +17,4 @@ takes a .sleep and goes on for ever and ever.
 I use 2xLED(s) - old red ones 3mm - by output, (with a R=330Ohms on each output).
 <br>A total of 8 red LEDs and PICO displays less than 80mA current consumption.
 <br>Can hold candles for days with a battery.
+<br>this code could be way more compact by using a for +1 loop
